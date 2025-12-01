@@ -1,9 +1,6 @@
-about formatting issues:
-
 # Cub3D
 
-Cub3D is a 3D graphics project from the 42 curriculum that shows how to render a 3D environment from a 2D map using **raycasting**.  
-It is built in **C** with **MiniLibX**, giving a Wolfenstein 3D-style first-person view.
+Cub3D is a 3D graphics project from the 42 curriculum that shows how to render a 3D environment from a 2D map using **raycasting**. It is built in **C** with **MiniLibX**, giving a Wolfenstein 3D-style first-person view.
 
 ## Features
 - 3D world rendering using raycasting
@@ -16,26 +13,17 @@ It is built in **C** with **MiniLibX**, giving a Wolfenstein 3D-style first-pers
 
 ## Installation
 1. Clone the repo:
-
-
-git clone <your-repo-url>
+git clone https://github.com/TemsamaniHamza/cub3d.git
 cd cub3d
 
 2. Compile:
-
-
-make
-
 > MiniLibX must be installed and linked properly.
 
 ## Usage
 Run with a `.cub` map file:
 
 
-./cub3d maps/map.cub
-
-
-Controls:
+**Controls:**
 - W: move forward
 - S: move backward
 - A: strafe left
@@ -43,6 +31,7 @@ Controls:
 - Left arrow: rotate left
 - Right arrow: rotate right
 - ESC: exit
+
 
 ## Technologies
 - C

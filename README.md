@@ -1,4 +1,4 @@
-# cub3dCub3D
+Cub3D
 
 Cub3D is a 3D graphics project from the 42 curriculum that demonstrates the basics of raycasting to render a 3D environment from a 2D map. The project is built using C and the MiniLibX library, allowing you to explore a Wolfenstein 3D-style first-person view with player movement and simple textures.
 

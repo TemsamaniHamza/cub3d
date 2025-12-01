@@ -13,8 +13,10 @@ Cub3D is a 3D graphics project from the 42 curriculum that shows how to render a
 
 ## Installation
 1. Clone the repo:
-git clone https://github.com/TemsamaniHamza/cub3d.git
-cd cub3d
+   ```bash
+   git clone https://github.com/TemsamaniHamza/cub3d.git
+   cd cub3d
+
 
 2. Compile:
 > MiniLibX must be installed and linked properly.
